@@ -1,0 +1,16 @@
+<div class="only-olds-browse-websites" role="pagination">
+
+<p>
+{% if paginator.previous_page %}
+<a style="float: left;" href="{{ paginator.previous_page_path }}">&laquo;</a>
+
+{% else %}
+<a style="float: left;" href="#"></a>
+{% endif %}
+{% if paginator.next_page %}
+<a style="float: right;" href="{{ paginator.next_page_path }}">&raquo;</a>
+{% else %}
+<a style="float: right;" href="#"></a>
+{% endif %}
+</p>
+</div>

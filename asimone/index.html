@@ -1,11 +1,17 @@
 ---
-layout: splash
+layout: blog
 title: test
 ---
-	<div class="homepage-content">
-		<div onclick="location.href='/me';" class="homepage-circle">
-		</div>
-	<nav><a style="float: left;" href="/writing">Writing</a><a style="float: right;" href="resume">Resume</a></nav>
-	</div>
+
+			{% for post in paginator.posts %}
+			<div class="post">
+				<a href="{{ post.url | prepend: site.baseurl }}#skipheader"><h3 class="archive-title">{{ post.title }}</h3></a>
+				<div class="post-archive">
+					<p>{{ post.content | strip_html | truncatewords: 30 }}</p>
+				</div>
+					<div class="stupidest-line"></div>
+			</div>
 
 
+
+			{% endfor %}
