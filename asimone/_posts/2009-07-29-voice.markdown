@@ -13,12 +13,16 @@ My friend Rick asked me <a href="http://www.clusterflock.org/2009/07/clusterfloc
 
 (I ask because I’m shaking again, or at least, I’m <em>haunted.</em>)
 
-<strong>A:</strong>
-<iframe width="100%" height="300" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/310262279&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
-
+<strong>A:</strong> <audio controls>
+  <source src="http://www.andrewsimone.com/wp-content/uploads/random/1004.ogg" type="audio/ogg">
+  <source src="http://www.andrewsimone.com/wp-content/uploads/2009/07/1004.mp3" type="audio/mpeg">
+[Download](http://www.andrewsimone.com/wp-content/uploads/2009/07/1004.mp3)
+</audio>
 
 <strong>Q:</strong> What have you carried with you, since viewing the film. Were you <em>changed</em> in some <em>elemental</em> way?
 
-<strong>A:</strong>
-<iframe width="100%" height="300" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/310262625&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
-
+<strong>A:</strong> <audio controls>
+  <source src="http://andrewsimone.com/wp-content/uploads/2009/07/Dogville2.ogg" type="audio/ogg">
+  <source src="http://www.andrewsimone.com/wp-content/uploads/2009/07/Dogville2.mp3" type="audio/mpeg">
+[Download](http://andrewsimone.com/wp-content/uploads/2009/07/Dogville2.mp3)
+</audio>

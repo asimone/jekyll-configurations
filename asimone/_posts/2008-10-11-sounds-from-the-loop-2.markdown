@@ -9,6 +9,10 @@ On a warm October Friday in St. Louis, worn down from the drudgery of a week in 
 
 I stood agog with Derek nearly weeping. We had never anything more incredible on the Loop.
 
-<iframe width="100%" height="300" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/310361132&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
+<audio controls>
+  <source src="http://www.andrewsimone.com/wp-content/uploads/random/Opera.ogg" type="audio/ogg">
+  <source src="http://www.andrewsimone.com/wp-content/uploads/2008/10/Opera.mp3" type="audio/mpeg">
+[Download](http://www.andrewsimone.com/wp-content/uploads/2008/10/Opera.mp3)
+</audio>
 
 (It’s a rough recording from an iPhone, so it is best heard with headphones.)

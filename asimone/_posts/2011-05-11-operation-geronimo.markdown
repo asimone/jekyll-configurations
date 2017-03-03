@@ -24,7 +24,7 @@ Photo of President Barack Obama and staff <a href="http://www.flickr.com/photos
 
 A man unwittingly <a href="http://abcnews.go.com/Blotter/sohaib-athar-unknowingly-live-tweets-raid-%20osama-bin/story?id=13506941">live tweets the raid on Osama bin Laden</a>. The tweets are aggregated<strong> in order</strong> <a href="http://almightylink.ksablan.com/social-media/the-reallyvirtual-tweets-reportedly-of-the-bin-laden-raid/?utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=Feed%3A+almightylink+%28Almighty+Link%29">over at the Almighty Link</a>.
 
-<a href="http://www.theatlantic.com/infocus/2011/05/osama-bin-laden-killed-worldwide-reactions/100058/"><img class="size-large wp-image-1151 alignnone" title="Osama Bin Laden Killed" src="/assets/images/Osama-Bin-Laden-Killed-Worldwide-Reactions-Alan-Taylor-In-Focus-The-Atlantic-660x468.png" alt="" width="800" height="708" /></a>
+<a href="http://www.theatlantic.com/infocus/2011/05/osama-bin-laden-killed-worldwide-reactions/100058/"><img class="size-large wp-image-1151 alignnone" title="Osama Bin Laden Killed" src="http://www.andrewsimone.com/wp-content/uploads/2011/05/Osama-Bin-Laden-Killed-Worldwide-Reactions-Alan-Taylor-In-Focus-The-Atlantic-660x468.png" alt="" width="800" height="708" /></a>
 <a href="http://www.theatlantic.com/infocus/2011/05/osama-bin-laden-killed-worldwide-reactions/100058/">A collection of images</a>, from all over the world, responding to his death.
 
 The NYT <a href="http://www.nytimes.com/2011/05/03/world/asia/osama-bin-laden-dead.html?hp">discusses the operation</a>:
@@ -51,13 +51,13 @@ The Guardian's <a href="http://www.guardian.co.uk/world/2011/may/02/osama-bin-la
 <blockquote>His life was one of extremes and of contradictions. Born to great wealth, he lived in relative poverty. A graduate of civil engineering, he assumed the mantle of a religious scholar. A gifted propagandist who had little real experience of battle, he projected himself as a mujahid, a holy warrior. A man who called for a return to the values and social systems of the seventh century as a means of restoring a just order in today's world, he justified the use of advanced modern technology to kill thousands through a rigorous and anachronistic interpretation of Islamic law.</blockquote>
 A nice diagram (below) from <a href="http://www.defense.gov/transcripts/transcript.aspx?transcriptid=4818">the DoD background briefing for senior officials</a>.
 
-<a href="http://www.defense.gov/DODCMSShare/briefingslide/359/110502-D-6570C-006.JPG"><img class="size-large wp-image-1185 alignnone" title="bin-laden-compound" src="/assets/images/bin-laden-compound-660x377.jpg" alt="" width="800" height="517" /></a>
+<a href="http://www.defense.gov/DODCMSShare/briefingslide/359/110502-D-6570C-006.JPG"><img class="size-large wp-image-1185 alignnone" title="bin-laden-compound" src="http://www.andrewsimone.com/wp-content/uploads/2011/05/bin-laden-compound-660x377.jpg" alt="" width="800" height="517" /></a>
 
 The WSJ has <a href="http://online.wsj.com/article/SB10001424052748704569404576298850337909570.html">a series of photos from after the operation</a>, much of it comes from <a href="http://abcnews.go.com/GMA/video/osama-bin-laden-dead-inside-pakistan-kill-site-13507839"><span style="color: #ff0000;">a short video</span></a> off a Blackberry.
 
 Reuters also has <a href="http://www.reuters.com/subjects/bin-laden-compound">some photos of the compound after the conflict</a>, including a couple dead men lying in pools of blood (you can click the link without seeing the images).
 
-<a href="http://www.economist.com/blogs/dailychart/2011/05/public_opinion_osama_bin_laden"><img class="size-full wp-image-1195 alignnone" title="public opinion of bin Laden" src="/assets/images/public-opinion-of-bin-Laden.gif" alt="" width="800" height="600" /></a>
+<a href="http://www.economist.com/blogs/dailychart/2011/05/public_opinion_osama_bin_laden"><img class="size-full wp-image-1195 alignnone" title="public opinion of bin Laden" src="http://www.andrewsimone.com/wp-content/uploads/2011/05/public-opinion-of-bin-Laden.gif" alt="" width="800" height="600" /></a>
 
 From <a href="http://www.economist.com/blogs/dailychart/2011/05/public_opinion_osama_bin_laden">The Economist</a> (see, <a href="http://www.economist.com/node/18651288?Story_ID=18651288">also</a>).
 
@@ -113,6 +113,5 @@ Were any of those stories really about technology? A few, maybe. But none were g
 This is the state of tech blogging these days. It’s shifting more towards a mixture of quick-posted nonsense and pure SEO plays.</blockquote>
 A map of the compound <a href="http://www.gamepron.com/news/2011/05/08/osama-bin-ladens-hideout-recreated-in-css/">has been recreated in Counter Strike: Source</a>, a first person shooter. Too soon?
 
-<a href="http://www.andrewsimone.com/wp-content/uploads/2011/05/twitter-and-obl.png"><img class="alignnone size-large wp-image-1269" title="twitter and obl" src="/assets/images/twitter-and-obl-660x467.png" alt="" width="800" height="607" /></a>
-
+<a href="http://www.andrewsimone.com/wp-content/uploads/2011/05/twitter-and-obl.png"><img class="alignnone size-large wp-image-1269" title="twitter and obl" src="http://www.andrewsimone.com/wp-content/uploads/2011/05/twitter-and-obl-660x467.png" alt="" width="800" height="607" /></a>
 Keith Urbahn speculative tweet triggered a series of "<a href="http://blog.socialflow.com/post/5246404319/breaking-bin-laden-visualizing-the-power-of-a-single">retweets and conversations that would beat mainstream media as well as the White House announcement.</a>"

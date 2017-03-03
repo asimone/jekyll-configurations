@@ -17,7 +17,7 @@ Now the Previa wasn't the worst car I had in my day, but it did have upwards up 
 
 <h4>The Situation</h4>
 
-<a href="https://goo.gl/maps/D08bb"><img src="/assets/images/map.png"></a>
+<a href="https://goo.gl/maps/D08bb"><img src="http://andrewsimone.com/images/map.png"></a>
 
 It was about 3 or 4 am and my car was stuck on the side of route 70 about 150 miles outside of Grand Junction, Colorado, and we had lost the rest of the caravan. Cell phones were only just becoming a common and, despite the fact that I didn't have one, that area of the country is pretty barren so reception would have been pretty sketchy then anyway.
 
