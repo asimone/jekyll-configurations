@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+<meta charset="utf-8">
+<meta name="viewport" content="width=850" user-scalable="no">
+<meta property="og:site_name" content="Andrew Simone's blog"/>
+<meta property="og:type" content="blog"/>
+<title>{{ page.title }}</title>
+<link rel="stylesheet" href="/assets/css/style.css">
+<link rel="author" href="https://plus.google.com/+AndrewSimone/posts"/>
+<link rel="icon" href="http://andrewsimone.com/images/favicon.ico" type="image/x-icon"/>
+
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-586193-4']);
+  _gaq.push(['_setDomainName', 'andrewsimone.com']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+</head>
+<body>
+
+<header>
+	<div class="title">
+	<a href="/writing"><h1 id="blog-title">This is a place</h1></a>
+	<p id="blog-subhead">(Some call it a blog)</p>
+	</div>
+</header>
+	<div class="circle"><a href='http://andrewsimone.com' class="fill-div"></a></div>
+	</div>
+	<div class="content">
+		
+			<p class="bio">This is where I convince you I'm not an asshole. I'll probably also <a href="https://twitter.com/asimone">link to twitter</a> because people are supposed to do that somewhere.</p>
+	<div class="stupid-line"><a name="skipheader"></a></div>
+	
+
+		<div class="post">
+			<a href="{{url}}#skipheader"><h2>{{ page.title }}</h2></a>
+			{{content}}
+				<div class="stupider-line"></div>
+				<div class="date"><time datetime="{{ site.time | date_to_long_string }}">{{ site.time | date_to_long_string }}</time></div>
+		</div>
+
+	</div>
+<footer>
+	<div class="footer-bullshit">
+		<p><a href="mailto:me@andrewsimone.com">me@andrewsimone.com</a></p>
+	</div>
+	<div class="only-olds-browse-websites" role="pagination">
+	<p><a style="float: left;" href="/writing">&laquo;</a></p>
+	</div>
+	
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-586193-4']);
+  _gaq.push(['_setDomainName', 'andrewsimone.com']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+	
+</footer>
+</body>
+</html>

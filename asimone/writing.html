@@ -1,0 +1,17 @@
+---
+layout: writing
+title: test
+---
+
+			{% for post in site.posts %}
+			<div class="post">
+				<a href="{{ post.url | prepend: site.baseurl }}#skipheader"><h3 class="archive-title">{{ post.title }}</h3></a>
+				<div class="post-archive">
+					<p>{{ post.content | strip_html | truncatewords: 30 }}</p>
+				</div>
+					<div class="stupidest-line"></div>
+			</div>
+
+
+
+			{% endfor %}
