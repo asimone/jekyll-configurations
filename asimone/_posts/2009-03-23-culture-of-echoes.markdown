@@ -5,13 +5,11 @@ date:   2009-03-20 15:36:05 -0600
 categories: language
 ---
 
-<p>This was originally printed over at <a href="http://www.marksandmeaning.com/?p=99">Marks and Meaning</a>.</p>
-
 I’ll spare you my usual critique of the Post-Warholian aesthetic, but there is no doubt that the aesthetic has permeated our culture. The democratization of art injected into the scene pop culture and, consequently, greater, more fragmented imagery. We became a culture of repetition and <a href="http://www.virtualsalt.com/rhetoric.htm#Allusion">allusion</a>, a culture of echoes.
 
 Regardless of whether or not you agree with my geneology, the allusion and repitition is here to stay. Digitally it manifests itself in link blogging platforms like <a href="http://www.tumblr.com/">tumblr</a> and its cousin, the <a href="http://bloggingbits.com/the-art-and-science-of-retweeting-for-twitteraholics/">retweet</a>. It has even challenged the ideas of authorship and artistic integrity, let’s take Shepard Fairey’s Obama poster as a preeminent example.
 
-<a href="http://www.andrewsimone.com/wp-content/uploads/2011/02/shepard_fairey_obama-poster.jpg"><img class="center size-full wp-image-694" title="shepard_fairey_obama-poster" src="http://www.andrewsimone.com/wp-content/uploads/2011/02/shepard_fairey_obama-poster.jpg" alt="" width="400" height="600" /></a>
+<a href="/assets/images/shepard_fairey_obama-poster.jpg"><img class="center size-full wp-image-694" title="shepard_fairey_obama-poster" src="http://www.andrewsimone.com/wp-content/uploads/2011/02/shepard_fairey_obama-poster.jpg" alt="" width="400" height="600" /></a>
 
 There have been a number of <a href="http://www.art-for-a-change.com/Obey/index.htm">comparisons with revolutionary propaganda</a> ranging from <a href="http://www.marksandmeaning.com/wp-content/uploads/2009/03/obey_soviet.gif">Russian</a> to the <a href="http://www.marksandmeaning.com/wp-content/uploads/2009/03/obey_black_panther.jpg">Black Panthers</a>. The similarities are striking, if you check the previous links, and certainly some of the fundamental ideas of both Russian and Black Panthers, specfically bringing power to the people (where “the people” are the oppressed or ignored and marginalized), were emergent in the Public consciousness during the election.
 

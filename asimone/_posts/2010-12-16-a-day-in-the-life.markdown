@@ -15,7 +15,7 @@ Now that I think about it, if you replace the Idler piece with any given project
 
 Now, if you debachelorize me, give me two human kids and make me a mimic octopus who is trying to hide the fact that he’s an octopus, you’ll begin to get a feel for the hilarious indie game, <em><a href="http://www.octodadgame.com/">Octodad</a></em>.
 
-<img class="alignnone size-full wp-image-1306" title="octodad" src="http://www.andrewsimone.com/wp-content/uploads/2011/11/octodad.jpg" alt="" width="800" height="560" />
+<img class="alignnone size-full wp-image-1306" title="octodad" src="/assets/images/octodad.jpg" alt="" width="800" height="560" />
 
 It is a short game—maybe an hour long—so I am going to avoid spoilers so you can get the full experience. I will, however, mention that the controls are <em>terrible</em>. The middle mouse button toggles between feet and hand mode, the left and right mouse buttons select which “arm” or “leg” you want to move, and the mouse movement manipulates them. And, while that makes walking across the room or picking something up an absolute chore, it also happens to be precisely the point.
 

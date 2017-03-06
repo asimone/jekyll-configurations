@@ -7,7 +7,7 @@ categories: internet
 
 Last month I started working on a retro gaming console to play some of my favorite classics on my television without the complication of a keyboard and mouse. I tried (and failed) a variety of different approaches and finally landed on this as the easiest and most manageable: 
 
-<img src="http://andrewsimone.com/wp-content/uploads/random/retropie.JPG">
+<img src="/assets/images/retropie.JPG">
 
 ####The Hardware####
 * [Rasberry PI Model B](http://www.amazon.com/RASPBERRY-MODEL-756-8308-Raspberry-Pi/dp/B009SQQF9C/asimone-20)
@@ -90,7 +90,7 @@ Now, theoretically, you could play most ROMs loaded onto the PI, but let’s get
 
 I’ve found the RetroArch controller auto-configuration a little lacking since there are a number of different options it doesn't configure out of the box (at least, as of writing this post). To make adjustments, you’ll edit the <strong>retroarch.cfg</strong> file which has a section at the end labeled <strong>#Player1</strong>. 
 
-If you like, you can replace *just that section* with my configuration in [this .txt file](http://andrewsimone.com/wp-content/uploads/random/asimone-config.txt). To add this to <strong>retroarch.cfg</strong> from the command line you can type:
+If you like, you can replace *just that section* with my configuration in [this .txt file](https://github.com/asimone/retropie-config/blob/master/config). To add this to <strong>retroarch.cfg</strong> from the command line you can type:
 
 <pre>sudo nano /home/REtroPie/configs/all/retroarch.cfg</pre>
 
