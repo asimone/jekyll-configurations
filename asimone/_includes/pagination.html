@@ -2,15 +2,15 @@
 
 <p>
 {% if paginator.previous_page %}
-<a style="float: left;" href="{{ paginator.previous_page_path }}">&laquo;</a>
+<a style="float: left;color:white;" href="{{ paginator.previous_page_path }}">&laquo;</a>
 
 {% else %}
-<a style="float: left;" href="#"></a>
+<a style="float: left;color:white;" href="#"></a>
 {% endif %}
 {% if paginator.next_page %}
-<a style="float: right;" href="{{ paginator.next_page_path }}">&raquo;</a>
+<a style="float: right; color:white" href="{{ paginator.next_page_path }}">&raquo;</a>
 {% else %}
-<a style="float: right;" href="#"></a>
+<a style="float: right; white" href="#"></a>
 {% endif %}
 </p>
 </div>
