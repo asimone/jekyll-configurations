@@ -13,10 +13,10 @@ I had the good fortune of reconnecting with some old friends who got me back int
 I've also created a few digital spaces to help out Dungeon Masters be better equipped to run campaigns for players who have more modern expectations.
 
 
-<h4>Spelljammer</h4>
-<a href="https://laughingbeholder.com/"><img style="width: 100%; border:1px solid #444;" src="/assets/images/laughingbeholder.PNG "></a>
+<h4>Laughing Beholder</h4>
+<a href="https://laughingbeholder.com/"><img style="width: 100%; border:1px solid #444;" src="/assets/images/laughingbeholder.png"></a>
 
-The goal of this website was completely self-serving: I wanted to create such a good repository of Spelljammer content that people would just start sending me stuff, so I didn't have to spend so much time preping for my own campaign. 
+The goal of <a href="https://laughingbeholder.com/">Laughing Beholder</a> was completely self-serving: I wanted to create such a good repository of Spelljammer content that people would just start sending me stuff, so I didn't have to spend so much time preping for my own campaign. 
 
 
 It's slowly grown (and will continue to do so), but the core premise is only to highlight the best Spelljammer content for digital and digitally augmented play.
